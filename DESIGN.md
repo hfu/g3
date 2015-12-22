@@ -1,0 +1,4 @@
+- The input should be the URL of the GeoJSON file in GitHub.
+- The url must be the parameter of the g3 site.
+- Fetch raw file over CORS. Ben Balter must have released the information for that.
+- Deployment onto gh-pages must be done via Travis CI.
